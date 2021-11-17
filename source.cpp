@@ -9,7 +9,7 @@ int tong(int a, int b){
 return a+b;}
 int tich(int a, int b){
 return a*b;}
-
+//da them nhanh moi
 int main()
 {
 	int a, b;
